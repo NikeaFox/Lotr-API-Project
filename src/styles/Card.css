@@ -1,0 +1,24 @@
+.card__container {
+    margin-top: 1rem;
+    background-color: #E1D5B3;
+    display: flex;
+    width: 300px;
+    height: 500px;
+    border: 10px solid #866711;
+    box-shadow: 10px 10px 10px inset #AAA187;
+}
+
+.information__container {
+    font-size: 1.2rem;
+    font-family: 'Snowburst One', cursive;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-between;
+    margin-left: 1rem;
+}
+
+.name__text {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
